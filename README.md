@@ -16,7 +16,7 @@ Fake News Detector is a Python-based Streamlit web application that uses machine
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/Kaneeshkar02/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
 streamlit run app.py
